@@ -35,5 +35,5 @@ Sous-page regroupant les champions lorrains, tous sports confondus 🥇.
 
 ## 🚧 En cours de dev
 
-- 📇 Annuaire
-- 🏆 Champions
+- 📇 Annuaire (ajouter plus de ligues hébergées)
+- 🏆 Champions (ajouter plus de champions)
