@@ -1,10 +1,10 @@
-# 🏛️ Projet Johan Boyer | Maison des Ligues
+# 🏛️ Projet Johan, Mathis | Maison des Ligues
 
 **🌐 Site de la Maison des Ligues (M2L) composé de 4 pages, chacune comprenant 2 sous-pages**
 
 ## 📋 Sommaire 
 
-- [🏛️ Projet Johan Boyer | Maison des Ligues](#️-projet-johan-boyer--maison-des-ligues)
+- [🏛️ Projet Johan, Mathis | Maison des Ligues](#️-projet-johan-mathis--maison-des-ligues)
   - [📋 Sommaire](#-sommaire)
   - [🏠 Index](#-index)
   - [ℹ️ Présentation](#ℹ️-présentation)
